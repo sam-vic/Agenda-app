@@ -1,18 +1,25 @@
 body {
     padding: 10px;
+    font-family: 'Poppins';
 }
+
 .container {
     margin-bottom: 10px;
 }
 
-.strike{
+input {
+    font-family: "Poppins";
+}
+
+.strike {
     text-decoration: line-through;
 }
 
-span{
+span {
     padding: 10px;
 }
 
 button {
     margin: 5px;
+    font-family: 'Poppins';
 }
