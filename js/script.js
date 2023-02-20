@@ -1,7 +1,7 @@
 let list = $('#list')
 
 // function to add input to list
-let addToList = () => {
+let addToList = function() {
   let inputValue = $('#input').val()
   // append input values in li
   let li = $('<li></li>')
